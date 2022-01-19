@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CyberSecurity Pentensting
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-Instagram: vishwajeet_xoXo
+Instagram: vishwajeet_x0x0
 Whatsapp: +917054088306
 
 <!---
