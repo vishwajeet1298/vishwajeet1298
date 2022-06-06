@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishwajeet1298
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning CyberSecurity Pentensting
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for an Internship in Front End Development 
 - 📫 How to reach me 
 Instagram: vishwajeet_x0x0
 Whatsapp: +917054088306
