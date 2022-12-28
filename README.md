@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @vishwajeet1298
-- 👀 I’m interested in Android Development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning CyberSecurity Pentensting
-- 💞️ I’m looking for an Internship in Front End Development 
+- 💞️ I’m looking for an Internship in Software Development and Front End Development or eventually Full-time Opportunity.
 - 📫 How to reach me 
 Instagram: vishwajeet_x0x0
-Whatsapp: +917054088306
+Whatsapp: +91 7054088306
 
 <!---
 vishwajeet1298/vishwajeet1298 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
