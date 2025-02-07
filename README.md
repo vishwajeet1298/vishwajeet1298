@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning React Native
 -  Interested in RedHat System Administration, Cybersecurity. 
-- 💞️ I’m looking for an Internship in Software Development and Mobile App Development or eventually Full-time Opportunity.
+- 💞️ I’m looking for an Opportunity in Software Development and Mobile App Development or eventually Full-time Opportunity.
 - 📫 How to reach me
 - Instagram: vishwajeet_x0x0
 - Whatsapp: +91 7054088306
